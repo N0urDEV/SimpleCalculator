@@ -1,1 +1,2 @@
 # SimpleCalculator
+"SimpleCalculator" is a Python script that acts as a basic calculator. It prompts the user to enter two integers and an operator (+, -, *, /). Based on the chosen operator, the script performs addition, subtraction, multiplication, or division on the two numbers and displays the result. It also handles cases where division by zero is not allowed and reports an error message for invalid operators. This script is a handy tool for performing simple arithmetic calculations.
